@@ -1,6 +1,6 @@
 # NumPy Scientific Computing Projects
 
-Collection of projects completed while learning NumPy and vectorized numerical computing.
+Collection of projects completed while learning NumPy and vectorized numerical computing. [Link for ChatGPT's chat about theses exercises and insights.](https://chatgpt.com/share/6a1b2b81-d25c-83ea-8910-a464d6210c6c)
 
 ## Objectives
 
